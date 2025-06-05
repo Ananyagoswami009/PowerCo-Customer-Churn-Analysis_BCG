@@ -43,7 +43,8 @@ The following datasets were provided by PowerCo and were used throughout the ana
 
 ---
 
-## Files & Folder Structure
+# Files & Folder Structure
+
 /PowerCo_Churn_Analysis
 │
 ├── /Data
@@ -62,7 +63,6 @@ The following datasets were provided by PowerCo and were used throughout the ana
 │
 └── /Readme
 ├── README.md (This file)
-
 
 ---
 
