@@ -44,26 +44,20 @@ The following datasets were provided by PowerCo and were used throughout the ana
 ---
 
 # Files & Folder Structure
-
 /PowerCo_Churn_Analysis
-│
 ├── /Data
 │ ├── client_data.csv
 │ ├── price_data.csv
 │ ├── clean_data_after_eda.csv
-│ ├── data_for_prediction.csv
-│
+│ └── data_for_prediction.csv
 ├── /Notebooks
 │ ├── Task_2_EDA.ipynb
 │ ├── Task_3_Feature_Engineering.ipynb
-│ ├── Task_4_Modeling.ipynb
-│
+│ └── Task_4_Modeling.ipynb
 ├── /Slides
-│ ├── Executive_Summary.pdf
-│
-└── /Readme
-├── README.md (This file)
-
+│ └── Executive_Summary.pdf
+├── /Readme
+│ └── README.md (This file)/
 ---
 
 
